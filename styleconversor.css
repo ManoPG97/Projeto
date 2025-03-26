@@ -1,0 +1,56 @@
+
+body {
+    .fundo{
+        background-image: linear-gradient(45deg,black,blue);
+        height: 100vh;
+        color: white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+   
+    font-family: Arial, sans-serif;
+    max-widht: 400px;
+    margin: 100 auto;
+    padding: 20px;
+    text-align: center;
+    }
+}
+
+h1 {
+    color:blue;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+}
+
+#resultado {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#taxa-info {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #666;
+}
